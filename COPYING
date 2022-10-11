@@ -1,0 +1,10 @@
+Método de construção de voz baseado em grafemas:
+www.festvox.org/festvox/c3485.html
+
+Database de áudio transcritos utilizando no treinamento de modelo de voz para Festival Speech Synthesis System
+https://github.com/falabrasil/speech-datasets  ou https://gitlab.com/fb-audio-corpora
+
+Agradecimentos:
+FalaBrasil por ter reunidos ou feito esses database de áudio transcritos com boa qualidade no idioma português brasileiro.
+E pelo kit de ferramentas de construção de voz Festival chamando Festvox e pelo ótimos manuais.
+
