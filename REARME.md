@@ -16,10 +16,14 @@ A duração do treinamento e construção do modelo demorou em torno de 1h a 1h3
 
 # Instalação
 É necessário ter instalado o Festival Speech Synthesis System em sua distribuição Linux. 
-	**Variações do Debian**
-	``sudo apt-get install festival``
-	**Variações do Arch Linux**
-	``sudo pacman -S festival``
+
+**Variações  do Debian**
+
+```sudo apt-get install festival```
+
+**Variações do arch**
+
+```sudo pacman -S festival```
 
 Geralmente as vozes são armazenadas em **/usr/share/** no meu sistema, em outras distribuições não sei onde se localizar o armazenamento das vozes. 
 
